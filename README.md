@@ -61,9 +61,9 @@ Backend Engineer with **4 years of software development experience**, specializi
 
 ## 🚀 Current Focus
 
-- Improving Java concurrency and system design skills.
+- Deepening expertise in Java concurrency and system design.
 - Exploring AI-powered backend applications with Spring AI.
-- Expanding knowledge of distributed systems and cloud architecture.
+- Exploring distributed systems and cloud architecture.
 
 ---
 
@@ -71,7 +71,6 @@ Backend Engineer with **4 years of software development experience**, specializi
 
 [![LinkedIn](https://img.shields.io/badge/-Jimmy-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimmy-hh/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:h.jimmy.dev@gmail.com)
-[![Blog](https://img.shields.io/badge/-Personal%20Blog-FFA500?style=flat&logo=rss&logoColor=white)](https://stream2java.github.io/)
 
 💡 **Open to**: Java / Kotlin Backend Engineer and Backend Software Engineer roles  
 🌏 **Location**: Taipei, Taiwan  
